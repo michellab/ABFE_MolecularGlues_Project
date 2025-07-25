@@ -1,0 +1,43 @@
+source leaprc.protein.ff14SB
+source leaprc.water.tip3p
+addAtomTypes { { "ZN" "Zn" "sp3" } { "S3" "S" "sp3" } } #Add atom types for the ZAFF metal center
+loadamberparams frcmod.ions1lm_126_tip3p #Load the Li/Merz 12-6 parameter set for monovalent ions
+loadamberprep ZAFF.prep #Load ZAFF prep file
+loadamberparams ZAFF.frcmod #Load ZAFF frcmod file
+
+# Load ligand params
+#source leaprc.gaff2
+#loadAmberParams IBG1.frcmod
+
+# Load IBG1
+#ligand = loadMol2 IBG1.mol2
+
+# Load proteins
+protein = loadpdb DCAF16_BRD4_aligned.pdb
+
+# Bond Zn centre to the four tetrahedral Sulfurs
+bond protein.173.ZN protein.56.SG #Bond zinc ion with SG atom of residue CYM
+bond protein.173.ZN protein.59.SG #Bond zinc ion with SG atom of residue CYM
+bond protein.173.ZN protein.133.SG #Bond zinc ion with SG atom of residue CYM
+bond protein.173.ZN protein.135.SG #Bond zinc ion with SG atom of residue CYM
+
+
+# Combine protein and ligand into one system
+#complex = combine {ligand protein}
+#check complex
+
+# Add box of water # volume  3623738.925 A^3 
+#solvateBox complex TIP3PBOX 10.0
+
+# Neutralising
+#addIons complex Na+ 0
+#addIons complex Cl- 0
+
+
+# Add buffer ions
+#addIonsRand complex Na+ 327 Cl- 327
+
+# Save parameter and coordinate files
+saveamberparm protein prot_param.prm7 prot_param.rst7
+savepdb protein prot.pdb
+quit

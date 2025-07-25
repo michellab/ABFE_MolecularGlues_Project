@@ -1,0 +1,61 @@
+###################################### Free Energies ########################################
+Mean free energy:  31.016 + /- 2.142 kcal/mol
+Free energy from run 1:  30.024 +/- 0.185 kcal/mol
+Free energy from run 2:  31.446 +/- 0.184 kcal/mol
+Free energy from run 3:  31.579 +/- 0.185 kcal/mol
+Errors are 95 % C.I.s based on the assumption of a Gaussian distribution of free energies
+Runs analysed: [1, 2, 3]
+Equilibration time for lambda = 0.0: 0.200 ns per simulation
+Total time simulated for lambda = 0.0: 1.000 ns per simulation
+Equilibration time for lambda = 0.015: 0.200 ns per simulation
+Total time simulated for lambda = 0.015: 1.000 ns per simulation
+Equilibration time for lambda = 0.031: 0.200 ns per simulation
+Total time simulated for lambda = 0.031: 1.000 ns per simulation
+Equilibration time for lambda = 0.048: 0.200 ns per simulation
+Total time simulated for lambda = 0.048: 1.000 ns per simulation
+Equilibration time for lambda = 0.068: 0.200 ns per simulation
+Total time simulated for lambda = 0.068: 1.000 ns per simulation
+Equilibration time for lambda = 0.089: 0.200 ns per simulation
+Total time simulated for lambda = 0.089: 1.000 ns per simulation
+Equilibration time for lambda = 0.111: 0.200 ns per simulation
+Total time simulated for lambda = 0.111: 1.000 ns per simulation
+Equilibration time for lambda = 0.134: 0.200 ns per simulation
+Total time simulated for lambda = 0.134: 1.000 ns per simulation
+Equilibration time for lambda = 0.158: 0.200 ns per simulation
+Total time simulated for lambda = 0.158: 1.000 ns per simulation
+Equilibration time for lambda = 0.182: 0.200 ns per simulation
+Total time simulated for lambda = 0.182: 1.000 ns per simulation
+Equilibration time for lambda = 0.206: 0.200 ns per simulation
+Total time simulated for lambda = 0.206: 1.000 ns per simulation
+Equilibration time for lambda = 0.23: 0.200 ns per simulation
+Total time simulated for lambda = 0.23: 1.000 ns per simulation
+Equilibration time for lambda = 0.258: 0.200 ns per simulation
+Total time simulated for lambda = 0.258: 1.000 ns per simulation
+Equilibration time for lambda = 0.289: 0.200 ns per simulation
+Total time simulated for lambda = 0.289: 1.000 ns per simulation
+Equilibration time for lambda = 0.321: 0.200 ns per simulation
+Total time simulated for lambda = 0.321: 1.000 ns per simulation
+Equilibration time for lambda = 0.354: 0.200 ns per simulation
+Total time simulated for lambda = 0.354: 1.000 ns per simulation
+Equilibration time for lambda = 0.389: 0.200 ns per simulation
+Total time simulated for lambda = 0.389: 1.000 ns per simulation
+Equilibration time for lambda = 0.425: 0.200 ns per simulation
+Total time simulated for lambda = 0.425: 1.000 ns per simulation
+Equilibration time for lambda = 0.464: 0.200 ns per simulation
+Total time simulated for lambda = 0.464: 1.000 ns per simulation
+Equilibration time for lambda = 0.506: 0.200 ns per simulation
+Total time simulated for lambda = 0.506: 1.000 ns per simulation
+Equilibration time for lambda = 0.541: 0.200 ns per simulation
+Total time simulated for lambda = 0.541: 1.000 ns per simulation
+Equilibration time for lambda = 0.582: 0.200 ns per simulation
+Total time simulated for lambda = 0.582: 1.000 ns per simulation
+Equilibration time for lambda = 0.63: 0.200 ns per simulation
+Total time simulated for lambda = 0.63: 1.000 ns per simulation
+Equilibration time for lambda = 0.687: 0.200 ns per simulation
+Total time simulated for lambda = 0.687: 1.000 ns per simulation
+Equilibration time for lambda = 0.794: 0.200 ns per simulation
+Total time simulated for lambda = 0.794: 1.000 ns per simulation
+Equilibration time for lambda = 0.949: 0.200 ns per simulation
+Total time simulated for lambda = 0.949: 1.000 ns per simulation
+Equilibration time for lambda = 1.0: 0.200 ns per simulation
+Total time simulated for lambda = 1.0: 1.000 ns per simulation

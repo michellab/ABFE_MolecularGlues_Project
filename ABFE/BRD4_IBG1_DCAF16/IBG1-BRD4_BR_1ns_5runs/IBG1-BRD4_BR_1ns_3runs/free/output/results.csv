@@ -1,0 +1,4 @@
+,dg / kcal mol-1,dg_95_ci / kcal mol-1,tot_simtime / ns,tot_gpu_time / GPU hours,normalised_gpu_time
+discharge_stage,168.21,0.71,27,2,0.193
+vanish_stage,-28.52,0.9,111,9,0.868
+free_leg,139.68,1.53,138,10,0.965

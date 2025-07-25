@@ -1,0 +1,23 @@
+###################################### Free Energies ########################################
+Mean free energy:  161.947 + /- 2.513 kcal/mol
+Free energy from run 1:  162.776 +/- 0.080 kcal/mol
+Free energy from run 2:  160.820 +/- 0.083 kcal/mol
+Free energy from run 3:  162.244 +/- 0.082 kcal/mol
+Errors are 95 % C.I.s based on the assumption of a Gaussian distribution of free energies
+Runs analysed: [1, 2, 3]
+Equilibration time for lambda = 0.0: 0.200 ns per simulation
+Total time simulated for lambda = 0.0: 1.000 ns per simulation
+Equilibration time for lambda = 0.13: 0.200 ns per simulation
+Total time simulated for lambda = 0.13: 1.000 ns per simulation
+Equilibration time for lambda = 0.277: 0.200 ns per simulation
+Total time simulated for lambda = 0.277: 1.000 ns per simulation
+Equilibration time for lambda = 0.411: 0.200 ns per simulation
+Total time simulated for lambda = 0.411: 1.000 ns per simulation
+Equilibration time for lambda = 0.545: 0.200 ns per simulation
+Total time simulated for lambda = 0.545: 1.000 ns per simulation
+Equilibration time for lambda = 0.682: 0.200 ns per simulation
+Total time simulated for lambda = 0.682: 1.000 ns per simulation
+Equilibration time for lambda = 0.828: 0.200 ns per simulation
+Total time simulated for lambda = 0.828: 1.000 ns per simulation
+Equilibration time for lambda = 1.0: 0.200 ns per simulation
+Total time simulated for lambda = 1.0: 1.000 ns per simulation

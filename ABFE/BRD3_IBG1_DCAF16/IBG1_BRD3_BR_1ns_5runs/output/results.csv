@@ -1,0 +1,10 @@
+,dg / kcal mol-1,dg_95_ci / kcal mol-1,tot_simtime / ns,tot_gpu_time / GPU hours,normalised_gpu_time
+restrain_stage,1.64,0.67,10,3,0.035
+discharge_stage,162.29,1.89,40,13,0.151
+vanish_stage,24.68,2.01,170,61,0.708
+bound_leg,179.99,3.09,220,77,0.894
+restraint_corr,-8.62,0.0,0,0,0.0
+discharge_stage,168.39,0.46,45,2,0.023
+vanish_stage,-28.88,0.69,185,7,0.081
+free_leg,139.51,0.45,230,9,0.105
+calculation,-40.48,2.88,450,86,0.999

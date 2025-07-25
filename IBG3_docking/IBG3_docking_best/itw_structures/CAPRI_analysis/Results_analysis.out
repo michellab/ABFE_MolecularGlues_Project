@@ -1,0 +1,21 @@
+Reference: complex_3w.pdb
+Working directory: /trinity/rascar/enmr/csb_webserver/data/results/haddock24/8751457536/520018-IBG3_test10_new/structures/it1/water/CAPRI_analysis
+List of PDB files: file.nam-analysis
+Analysis directory: CAPRI_analysis
+Scripts directory: /trinity/rascar/enmr/csb_webserver/data/results/haddock24/8751457536/520018-IBG3_test10_new/structures/it1/water/CAPRI_analysis/../analysis/
+Reference contact file (created later on): complex_3w.contacts
+Contacts list: file.nam-analysis_contacts
+Starts analysis script...
+Contacts files creation...
+DONE
+FNAT calculation...
+fnat file ok
+DONE
+i-RMSD calculation...
+irmsd file ok
+DONE
+l-RMSD calculation...
+lrmsd file ok
+DONE
+Values compiled file ok
+DONE

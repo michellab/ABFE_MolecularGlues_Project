@@ -1,0 +1,12 @@
+#Cluster rmsd-Emin sd
+file.nam_clust1    1.666    0.084 
+file.nam_clust2    2.979    0.079 
+file.nam_clust3    6.862    0.069 
+file.nam_clust4    4.719    0.129 
+file.nam_clust5    0.272    0.120 
+file.nam_clust6   20.823    0.065 
+file.nam_clust7    1.328    0.027 
+file.nam_clust8    5.768    0.044 
+file.nam_clust9   11.347    0.163 
+file.nam_clust10    1.389    0.197 
+file.nam_clust11    2.530    0.029 
