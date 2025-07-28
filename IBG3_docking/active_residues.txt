@@ -1,0 +1,9 @@
+BRD4 (A):
+Pairing with B: 2, 23, 26, 28, 33, 35, 38, 77, 80, 81, 85, 86, 87,90,133, 134, 139, 144, 146, 149, 188, 191, 192, 196, 197, 198,201
+Pairing with C: 20,196
+
+IBG3 (B): all (pairing with both B and C)
+
+DCAF16 (C): 
+Pairing with A: 10,18
+Pairing with B: 14,15,18,137
