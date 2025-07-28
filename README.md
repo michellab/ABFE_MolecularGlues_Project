@@ -15,7 +15,7 @@ Example input files for each MDR calculation can be found in the `get_restraints
 
 ---
 
-### - IBG3_docking_best
+### - IBG3_docking
 
 This folder contains the [HADDOCK 2.4 webserver](https://rascar.science.uu.nl/haddock2.4/) input files and the top docking results for the IBG3–BRD4–DCAF16 system. The `IBG3_docking_best` folder includes 400 water-refined structures, along with the 10 best-ranked structures based on **DockQ** scores.
 
